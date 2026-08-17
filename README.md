@@ -1,0 +1,1 @@
+Me llamo Elías Alpízar Gutiérrez, soy estudiante de Computación con varios Énfasis en la Universidad de Costa Rica. Este repositorio contendrá diferentes prácticas y proyectos que iré desarrollando a lo largo de mi carrera.
